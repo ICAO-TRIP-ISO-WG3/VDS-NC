@@ -1,0 +1,376 @@
+{
+	"VaccineListID": "VaccineListV1",
+	"Date": "2022-02-10",
+	"VaccineList": {
+		"Tozinameran": {
+			"des": "XM0GQ8",
+			"nam": "Comirnaty",
+			"dis": "RA01.0"
+		},
+		"Pfizer-BioNTech COVID-19 vaccine BNT162b2": {
+			"des": "XM0GQ8",
+			"nam": "Comirnaty",
+			"dis": "RA01.0"
+		},
+		"3 LNP-mRNAS": {
+			"des": "XM0GQ8",
+			"nam": "Comirnaty",
+			"dis": "RA01.0"
+		},
+		"Tozinameran (INN)": {
+			"des": "XM0GQ8",
+			"nam": "Comirnaty",
+			"dis": "RA01.0"
+		},
+		"BNT162b2/COMIRNATY": {
+			"des": "XM0GQ8",
+			"nam": "Comirnaty",
+			"dis": "RA01.0"
+		},
+		"Pfizer BioNTech - Comirnaty": {
+			"des": "XM0GQ8",
+			"nam": "Comirnaty",
+			"dis": "RA01.0"
+		},
+		"BNT162": {
+			"des": "XM0GQ8",
+			"nam": "Comirnaty",
+			"dis": "RA01.0"
+		},
+		"COVID-19 mRNA Vaccine Moderna mRNA-1273": {
+			"des": "XM0GQ8",
+			"nam": "Moderna",
+			"dis": "RA01.0"
+		},
+		"Spikevax": {
+			"des": "XM0GQ8",
+			"nam": "Moderna",
+			"dis": "RA01.0"
+		},
+		"Moderna-Spikevax": {
+			"des": "XM0GQ8",
+			"nam": "Moderna",
+			"dis": "RA01.0"
+		},
+		"Zydus-ZyCov-D": {
+			"des": "XM6AT1",
+			"nam": "ZyCov-D",
+			"dis": "RA01.0"
+		},
+		"SARS CoV 2 vaccine, virus like particle": {
+			"des": "XM1J92",
+			"nam": "",
+			"dis": "RA01.0"
+		},
+		"COVID-19 vaccine, (VLP)-[virus like particle]": {
+			"des": "XM1J92",
+			"nam": "",
+			"dis": "RA01.0"
+		},
+		"Anhui ZL-Recombinant": {
+			"des": "XM5JC5",
+			"nam": "Recombinant SARS-CoV-2 vaccine",
+			"dis": "RA01.0"
+		},
+		"Adjuvanted recombinant protein (RBD-DIMER)": {
+			"des": "XM5JC5",
+			"nam": "Recombinant SARS-CoV-2 vaccine",
+			"dis": "RA01.0"
+		},
+		"ZF2001": {
+			"des": "XM5JC5",
+			"nam": "Recombinant SARS-CoV-2 vaccine",
+			"dis": "RA01.0"
+		},
+		"ZF-UZ-VAC 2001": {
+			"des": "XM5JC5",
+			"nam": "Recombinant SARS-CoV-2 vaccine",
+			"dis": "RA01.0"
+		},
+		"CIGB-CIGB-66": {
+			"des": "XM5JC5",
+			"nam": "CIGB-66",
+			"dis": "RA01.0"
+		},
+		"Abdala": {
+			"des": "XM5JC5",
+			"nam": "CIGB-66",
+			"dis": "RA01.0"
+		},
+		"Finlay-Soberana-02": {
+			"des": "XM5JC5",
+			"nam": "Soberana-02",
+			"dis": "RA01.0"
+		},
+		"RRBD produced in CHO-cell chemically conjugated to tetanus toxoid": {
+			"des": "XM5JC5",
+			"nam": "Soberana-02",
+			"dis": "RA01.0"
+		},
+		"FINLAY-FR2": {
+			"des": "XM5JC5",
+			"nam": "Soberana-02",
+			"dis": "RA01.0"
+		},
+		"PASTUCOVAC": {
+			"des": "XM5JC5",
+			"nam": "Soberana-02",
+			"dis": "RA01.0"
+		},
+		"Medigen-MVC-COV1901": {
+			"des": "XM5JC5",
+			"nam": "MVC-COV1901",
+			"dis": "RA01.0"
+		},
+		"MVC COVID-19 vaccine": {
+			"des": "XM5JC5",
+			"nam": "MVC-COV1901",
+			"dis": "RA01.0"
+		},
+		"SRCVB-EpiVacCorona": {
+			"des": "XM5JC5",
+			"nam": "EpiVacCorona",
+			"dis": "RA01.0"
+		},
+		"Finlay-Soberana Plus": {
+			"des": "XM5JC5",
+			"nam": "Soberana Plus",
+			"dis": "RA01.0"
+		},
+		"SRCVB-EpiVacCorona-N": {
+			"des": "XM5JC5",
+			"nam": "EpiVacCorona-N",
+			"dis": "RA01.0"
+		},
+		"Vaxine-SpikoGen": {
+			"des": "XM5JC5",
+			"nam": "SpikoGen",
+			"dis": "RA01.0"
+		},
+		"COVAX-19": {
+			"des": "XM5JC5",
+			"nam": "SpikoGen",
+			"dis": "RA01.0"
+		},
+		"Novavax-Covovax": {
+			"des": "XM5JC5",
+			"nam": "Novavax",
+			"dis": "RA01.0"
+		},
+		"Nuvaxovid": {
+			"des": "XM5JC5",
+			"nam": "Novavax",
+			"dis": "RA01.0"
+		},
+		"NVX-CoV2373": {
+			"des": "XM5JC5",
+			"nam": "Novavax",
+			"dis": "RA01.0"
+		},
+		"Covovax": {
+			"des": "XM5JC5",
+			"nam": "Novavax",
+			"dis": "RA01.0"
+		},
+		"Razi COV PARS": {
+			"des": "XM5JC5",
+			"nam": "Razi COV PARS",
+			"dis": "RA01.0"
+		},
+		"Vaxzevria": {
+			"des": "XM9QW8",
+			"nam": "AstraZeneca",
+			"dis": "RA01.0"
+		},
+		"COVID-19 Vaccine AstraZeneca AZD1222": {
+			"des": "XM9QW8",
+			"nam": "AstraZeneca",
+			"dis": "RA01.0"
+		},
+		"COVID-19 Vaccine AstraZeneca ChAdOx1 nCoV-19": {
+			"des": "XM9QW8",
+			"nam": "AstraZeneca",
+			"dis": "RA01.0"
+		},
+		"COVID-19 Vaccine AstraZeneca ChAdOx1-S": {
+			"des": "XM9QW8",
+			"nam": "AstraZeneca",
+			"dis": "RA01.0"
+		},
+		"AstraZeneca-Vaxzevria": {
+			"des": "XM9QW8",
+			"nam": "AstraZeneca",
+			"dis": "RA01.0"
+		},
+		"R-Covi": {
+			"des": "XM9QW8",
+			"nam": "AstraZeneca",
+			"dis": "RA01.0"
+		},
+		"Covishield AZD1222": {
+			"des": "XM9QW8",
+			"nam": "Covishield",
+			"dis": "RA01.0"
+		},
+		"Covishield ChAdOx1 nCoV-19": {
+			"des": "XM9QW8",
+			"nam": "Covishield",
+			"dis": "RA01.0"
+		},
+		"Covishield ChAdOx1-S": {
+			"des": "XM9QW8",
+			"nam": "Covishield",
+			"dis": "RA01.0"
+		},
+		"SII-Covishield": {
+			"des": "XM9QW8",
+			"nam": "Covishield",
+			"dis": "RA01.0"
+		},
+		"Ad26.COV 2.S": {
+			"des": "XM9QW8",
+			"nam": "Janssen",
+			"dis": "RA01.0"
+		},
+		"Johnson & Johnson COVID-19 vaccine": {
+			"des": "XM9QW8",
+			"nam": "Janssen",
+			"dis": "RA01.0"
+		},
+		"Janssen-Ad26.COV 2-S": {
+			"des": "XM9QW8",
+			"nam": "Janssen",
+			"dis": "RA01.0"
+		},
+		"CanSino-Convidecia": {
+			"des": "XM9QW8",
+			"nam": "Convidecia",
+			"dis": "RA01.0"
+		},
+		"Ad5-nCOV": {
+			"des": "XM9QW8",
+			"nam": "Convidecia",
+			"dis": "RA01.0"
+		},
+		"Gamaleya-Gam-Covid-Vac": {
+			"des": "XM9QW8",
+			"nam": "Gam-Covid-Vac",
+			"dis": "RA01.0"
+		},
+		"Sputnik-V": {
+			"des": "XM9QW8",
+			"nam": "Gam-Covid-Vac",
+			"dis": "RA01.0"
+		},
+		"Gam-KOVID-Vak": {
+			"des": "XM9QW8",
+			"nam": "Gam-Covid-Vac",
+			"dis": "RA01.0"
+		},
+		"Gamaleya-Sputnik-Light": {
+			"des": "XM9QW8",
+			"nam": "Sputnik-Light",
+			"dis": "RA01.0"
+		},
+		"Sinovac COVID-19 Vaccine": {
+			"des": "XM1NL1",
+			"nam": "CoronaVac",
+			"dis": "RA01.0"
+		},
+		"PICOVACC": {
+			"des": "XM1NL1",
+			"nam": "CoronaVac",
+			"dis": "RA01.0"
+		},
+		"Sinopharm BBIBP-CorV": {
+			"des": "XM1NL1",
+			"nam": "BBIBP-CorV",
+			"dis": "RA01.0"
+		},
+		"Sinopharm COVID-19 vaccine": {
+			"des": "XM1NL1",
+			"nam": "BBIBP-CorV",
+			"dis": "RA01.0"
+		},
+		"Beijing CNBG-BBIBP-CorV": {
+			"des": "XM1NL1",
+			"nam": "BBIBP-CorV",
+			"dis": "RA01.0"
+		},
+		"COVID-19 Vaccine BIBP": {
+			"des": "XM1NL1",
+			"nam": "BBIBP-CorV",
+			"dis": "RA01.0"
+		},
+		"Beijing Minhai-KCONVAC": {
+			"des": "XM1NL1",
+			"nam": "KCONVAC",
+			"dis": "RA01.0"
+		},
+		"Inactivated SARS-COV-2 vaccine, Vero cell": {
+			"des": "XM1NL1",
+			"nam": "KCONVAC",
+			"dis": "RA01.0"
+		},
+		"Bharat-Covaxin": {
+			"des": "XM1NL1",
+			"nam": "Covaxin",
+			"dis": "RA01.0"
+		},
+		"BBV152": {
+			"des": "XM1NL1",
+			"nam": "Covaxin",
+			"dis": "RA01.0"
+		},
+		"Chumakov-Covi-Vac": {
+			"des": "XM1NL1",
+			"nam": "Covi-Vac",
+			"dis": "RA01.0"
+		},
+		"CoviVac": {
+			"des": "XM1NL1",
+			"nam": "Covi-Vac",
+			"dis": "RA01.0"
+		},
+		"Julphar-Hayat-Vax": {
+			"des": "XM1NL1",
+			"nam": "Hayat-Vax",
+			"dis": "RA01.0"
+		},
+		"RIBSP-QazVac": {
+			"des": "XM1NL1",
+			"nam": "QazVac",
+			"dis": "RA01.0"
+		},
+		"QazCovid-in": {
+			"des": "XM1NL1",
+			"nam": "QazVac",
+			"dis": "RA01.0"
+		},
+		"Shifa-COVIran Barakat": {
+			"des": "XM1NL1",
+			"nam": "COVIran Barakat",
+			"dis": "RA01.0"
+		},
+		"IMB-inactivated": {
+			"des": "XM1NL1",
+			"nam": "Covidful",
+			"dis": "RA01.0"
+		},
+		"IMB-Covidful": {
+			"des": "XM1NL1",
+			"nam": "Covidful",
+			"dis": "RA01.0"
+		},
+		"WIBP-CorV": {
+			"des": "XM1NL1",
+			"nam": "Sinopharm WIBP-CorV",
+			"dis": "RA01.0"
+		},
+		"Wuhan CNBG-Inactivated": {
+			"des": "XM1NL1",
+			"nam": "Sinopharm WIBP-CorV",
+			"dis": "RA01.0"
+		}
+	}
+}
